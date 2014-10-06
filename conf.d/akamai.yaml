@@ -1,0 +1,14 @@
+init_config:
+  username: "YOURACCOUNT"
+  password: "YOURPASS"
+
+instances:
+- site: "www.YOURCONFIG.ch"
+  # tags:
+  # - 'tag1:key1'
+  # - 'tag2:key2'
+- site: "www.ANOTHERCONFIG.ch"
+  # tags:
+  # - 'tag1:key1'
+  # - 'tag2:key2'
+- site: "www.ANOTHERONE.ch"
